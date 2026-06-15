@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
@@ -7,10 +7,10 @@
 
     <!-- NuGet metadata -->
     <PackageId>OC.Automate.Mastodon</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.3</Version>
     <Authors>Owain Williams</Authors>
     <Description>Mastodon connection type and action for Umbraco Automate. Lets you post statuses to any Mastodon instance as part of an automation workflow.</Description>
-    <PackageTags>umbraco;automate;mastodon;fediverse</PackageTags>
+    <PackageTags>umbraco;automate;mastodon;fediverse;umbraco-marketplace</PackageTags>
     <PackageProjectUrl>https://github.com/OwainWilliams/OC.Automate.Mastodon</PackageProjectUrl>
     <RepositoryUrl>https://github.com/OwainWilliams/OC.Automate.Mastodon</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
